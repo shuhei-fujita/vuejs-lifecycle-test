@@ -1,5 +1,5 @@
 # vuejs-lifecycle-test
-## lifecycle Method
+## Lifecycle Method
 |Lifecycle Method|
 |:----|
 |beforeCreate|
