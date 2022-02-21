@@ -1,24 +1,19 @@
 # vuejs-lifecycle-test
+## lifecycle Method
+|Lifecycle Method|
+|:----|
+|beforeCreate|
+|created|
+|beforeMount|
+|mounted|
+|beforeUpdate|
+|updated|
+|beforeUnmount|
+|unmounted|
+|errorCaptured|
+|renderTracked|
+|renderTriggered|
+|activated|
+|deactivated|
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://v3.ja.vuejs.org/guide/composition-api-lifecycle-hooks.html
