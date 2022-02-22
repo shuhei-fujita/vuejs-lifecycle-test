@@ -23,6 +23,9 @@ export default {
   },
   mounted() {
     console.log('mounted');
+    this.$nextTick(function () {
+      console.log('nextTick');
+    })
   },
   updated() {
     console.log('updated');
